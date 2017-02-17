@@ -1,3 +1,3 @@
-#What is this about?
+#Why?
 
 Hydrogen was written because moondeck (Hey, thats me!) wanted to learn C and assembly, and couldn't see a point in writing anything else, so he went ahead and started writing some barely-C code from a really bad tutorial. As of now, none of that code is left in the kernel. The kernel used to be called moonix (because of "moondeck"), but is now called "Hydrogen" because it aims to be light and stable (and is not UNIX-like), just like hydrogen.
